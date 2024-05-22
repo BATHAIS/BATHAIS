@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a United States Marine with 11+ years of service. Originally from Washington D.C. and raised in Northern Virginia.  While active duty I served as an Aircraft firefighter, Embassy Security Guard, and Intelligence Analyst. Currently on SkillBridge with Cybervets pursuing a future career in cybersecurity. I have no background in cybersecurity so I am learning from the ground up. My short term and mid term goals are to successfully complete Cybervets SkillBridge, Google cybersecurity Professional Certificate, CompTia Network+ and CompTia Security+. My passions outside of work include physical activities and spending time with my family. 
+
 <!--
 **SHAHEEN BATHAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
